@@ -1,24 +1,25 @@
-Sure! Here is the markdown version of your updated GitHub profile introduction:
+💡Skills💡:
 
-```markdown
-# 👋 Hi, I'm Michael! 🚀
+Microsoft SQL Server
+Power BI
+Microsoft Excel
+Advance Excel/Google Sheets
+ 
 
-Welcome to my GitHub profile! I'm a versatile professional with expertise in Data Analysis, Business Analysis, Software Engineering, and beginner skills in Data Engineering. With a strong foundation in **Python**, **SQL**, **JavaScript**, and **Tableau**, I thrive on solving complex problems and driving business decisions through data and innovative software solutions.
+👩‍💻Projects on MS SQL👩‍💻
 
-## 🌟 What I Do
-- **📊 Data Analysis**: Extracting, cleaning, and analyzing data to uncover trends and insights.
-- **📈 Business Analysis**: Collaborating with stakeholders to understand business needs and translate them into data-driven strategies.
-- **💻 Software Engineering**: Crafting clean, efficient, and scalable code for various applications.
-- **🛠️ Data Engineering**: Building and maintaining data pipelines and integrating data from various sources.
-- **📚 Continuous Learning**: Staying updated with the latest tools and techniques in data analysis, business intelligence, and software development.
+Querying a Large Relational Database in Ms Sql: Click HERE
+ 
 
-## 🛠️ My Tech Stack
-- **Languages**: Python, SQL, R, JavaScript, Java, CSS, HTML
-- **Tools**: Tableau, Power BI, Excel, Jupyter Notebooks
-- **Frameworks**: React, Node.js, Django
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Data Engineering Tools**: Apache Spark, Hadoop, Airflow
-- **Development Tools**: Git, Docker, Jenkins
+⚡Projects in Power BI⚡
+
+Visualising Retail Store using Power BI: Click HERE
+ 
+
+📚Courses and Certifications📚
+
+Data Analytics for Business, IIT Madras by intelliPaat
+The fundamentals of Digital Marketing by Google Digital Garager, Jenkins
 
 ## 🌱 Currently Exploring
 - **Machine Learning**: Applying predictive models to enhance data analysis.
